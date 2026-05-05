@@ -1,7 +1,3 @@
-====================================================================================
-VISUALIZADOR FORENSE DE CONVERSAS DO WHATSAPP / WHATSAPP CHAT FORENSIC VIEWER
-====================================================================================
-
 --- [ PORTUGUÊS ] ---
 
 # SOBRE O PROJETO
